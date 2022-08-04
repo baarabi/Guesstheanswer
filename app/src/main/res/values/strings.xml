@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">لعبة خمن</string>
+    <string name="false_text">خطا</string>
+    <string name="true_text">صحيح</string>
+    <string name="back_main">الرجوع</string>
+    <string name="share_text_question">نشر السؤال</string>
+    <string name="share_title_hint">ادخل عنوان المشاركة</string>
+    <string name="change_question_text">غير السؤال</string>
+    <string name="change_lang_text">تغيير اللغة</string>
+    <string name="question">السؤال</string>
+    <string name="the_right_answer_is">الاجابة الصحيحة تكون</string>
+    <string name="share_the_question_with_friends">شارك السؤال مع احد اصدقائك</string>
+    
+    <string-array name="question">
+        <item>العملة الرسمية لدولة الكويت هي الريال الكويتي؟</item>
+        <item>توبقال هي أعلى قمة في الوطن العربي؟</item>
+        <item>الجزائر هي أكبر دولة عربية من حيث المساحة؟</item>
+        <item>الدار البيضاء هي عاصمة المغرب؟</item>
+        <item>كابول هي عاصمة أفغانستان؟</item>
+        <item>أكبر حيوان لافقاري هو قنديل البحر؟</item>
+        <item>البلد العربي الذي يمر به خط الاستواء هو السودان؟</item>
+        <item>القلب هو أكبر عضو في جسم الإنسان؟</item>
+        <item>أول مسجد في الإسلام هو المسجد النبوي؟</item>
+        <item>العم الوحيد لأبناء عمتك هو والدك؟</item>
+        <item>أول دولة منتجة للموز في العالم هي الإكوادور؟</item>
+        <item>عاصمة الأرجنتين هي باكو؟</item>
+        <item>عملة فيتنام هي دونغ؟</item>
+    </string-array>
+    <string-array name="answers_details">
+        <item>العملة الرسمية لدولة الكويت هي الدينار الكويتي</item>
+        <item>توبكل هي أعلى قمة جبلية في العالم العربي وتقع في المغرب</item>
+        <item>الجزائر هي أكبر دولة عربية من حيث المساحة</item>
+        <item>الرباط هي عاصمة المغرب</item>
+        <item>كابول هي عاصمة أفغانستان</item>
+        <item>أكبر حيوان لافقاري هو الحبار</item>
+        <item>الدولة العربية التي يمر معها خط الاستواء هي الصومال.</item>
+        <item>الكبد هو أكبر عضو في جسم الإنسان</item>
+        <item>أول مسجد في الإسلام هو مسجد قباء</item>
+        <item>العم الوحيد لأبناء عمتك هو والدك</item>
+        <item>أول دولة منتجة للموز في العالم هي الإكوادور</item>
+        <item>عاصمة الأرجنتين هي بوينس آيرس</item>
+        <item>عملة فيتنام هي دونغ</item>
+    </string-array>
+    <array name="languages" >
+        <item>العربية</item>
+        <item>English</item>
+
+    </array>
+
+
+
+</resources>
