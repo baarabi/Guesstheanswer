@@ -96,7 +96,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:background="@drawable/button_true"
+        android:background="@color/black"
         android:backgroundTint="@color/redDark"
         android:foreground="@color/transWhite"
         android:onClick="onTrueClicked"
